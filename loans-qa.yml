@@ -1,9 +1,9 @@
 build:
-  version: "2.0"
+  version: "12.0"
 loans:
-  message: "Welcome to Loans QA Microservice "
+  message: "Welcome to Loans Test(QA) Microservice "
   contactDetails:
-    name: "Rohan QA Lead"
+    name: "Rohan QA(Test) Lead"
     email: "Rohan@gmail.com"
   callSupport:
     -(555)555-1234
