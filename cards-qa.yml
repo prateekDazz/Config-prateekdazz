@@ -3,7 +3,7 @@ spring:
     activate:
       on-profile: "qa"
 build:
-  version: "2.0"
+  version: "12.0"
 cards:
   message: "Welcome to Cards QA Microservice "
   contactDetails:
