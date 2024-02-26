@@ -7,7 +7,7 @@ build:
 cards:
   message: "Welcome to cards Production Microservice "
   contactDetails:
-    name: "Devi Prod Lead"
+    name: "Devi Production Lead"
     email: "devihengnr@gmail.com"
   callSupport:
     -(555)555-1234
