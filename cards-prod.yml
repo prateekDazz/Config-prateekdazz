@@ -5,7 +5,7 @@ spring:
 build:
   version: "1.0"
 cards:
-  message: "Welcome to cards Prod Microservice "
+  message: "Welcome to cards Production Microservice "
   contactDetails:
     name: "Devi Prod Lead"
     email: "devihengnr@gmail.com"
