@@ -1,5 +1,5 @@
 build:
-  version: "1.0"
+  version: "14.0"
 loans:
   message: "Welcome to Loans Prod Microservice "
   contactDetails:
