@@ -5,9 +5,9 @@ spring:
 build:
   version: "1.0"
 cards:
-  message: "Welcome to cards Production Microservice "
+  message: "Welcome to cards prod Microservice "
   contactDetails:
-    name: "Devi Production Lead"
+    name: "Devi prod Lead"
     email: "devihengnr@gmail.com"
   callSupport:
     -(555)555-1234
