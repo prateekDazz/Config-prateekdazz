@@ -3,7 +3,7 @@ build:
 loans:
   message: "Welcome to Loans Prod Microservice "
   contactDetails:
-    name: "Amit Prod Lead"
+    name: "Rana Prod Lead"
     email: "devihengnr@gmail.com"
   callSupport:
     -(555)555-1234
