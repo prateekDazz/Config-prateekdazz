@@ -1,9 +1,9 @@
 build:
-  version: "14.0"
+  version: "8.0"
 loans:
   message: "Welcome to Loans Prod Microservice "
   contactDetails:
-    name: "Devi Prod Lead"
+    name: "Amit Prod Lead"
     email: "devihengnr@gmail.com"
   callSupport:
     -(555)555-1234
