@@ -3,11 +3,11 @@ spring:
     activate:
       on-profile: "prod"
 build:
-  version: "14.0"
+  version: "8.0"
 cards:
   message: "Welcome to cards prod Microservice "
   contactDetails:
-    name: "Devi prod Lead"
+    name: "Amit prod Lead"
     email: "devihengnr@gmail.com"
   callSupport:
     -(555)555-1234
